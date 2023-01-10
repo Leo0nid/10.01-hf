@@ -41,13 +41,16 @@
 // и запишите его в переменную num.
 
 // let n = 1000
-
-// for(let i = 0 ; i < 1000 ; i++){
-//     if(i % 2 === 0 && i > 50){
-//         console.log(i)
+// let num = 0
+// for(let i = 0 ; i < n; i++){
+//     if(n > 50){
+//     n = n / 2
+//     num ++
 //     }
+   
 // }
-
+// console.log(n)
+// console.log(num)
 
 
 
