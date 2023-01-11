@@ -4,7 +4,7 @@
 // let newArr = []
 // for (let i = 0 ; i < arr.length; i++){
 //     let str = String(arr[i])
-//     let num = str[0]
+//     let num = +str[0]
 //     if(num == 1 || num == 2 || num == 5){
 //         newArr = [...newArr,str]
 //     }
